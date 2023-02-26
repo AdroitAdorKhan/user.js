@@ -1,0 +1,10 @@
+user_pref("keyword.enabled", true);
+user_pref("browser.search.suggest.enabled", true);
+user_pref("browser.urlbar.suggest.searches", true);
+user_pref("browser.formfill.enable", true);
+user_pref("browser.startup.page", 1);
+user_pref("browser.startup.homepage", "about:home");
+user_pref("browser.newtabpage.enabled", true);
+user_pref("privacy.window.maxInnerWidth", 1920);
+user_pref("privacy.window.maxInnerHeight", 1080);
+user_pref("media.eme.enabled", true);
